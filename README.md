@@ -12,7 +12,7 @@
 
 </div>
 
----
+
 <div align="center">
 <p>
     <a href="https://oceanbase.ai">
@@ -43,7 +43,7 @@
 
 **English** | [中文版](README_CN.md)
 
----
+
 
 </div>
 
@@ -51,7 +51,7 @@
 
 **OceanBase seekdb** is an AI-native search database that unifies relational, vector, text, JSON and GIS in a single engine, enabling hybrid search and in-database AI workflows.
 
----
+
 
 ## 🔥 Why OceanBase seekdb?
 
@@ -85,8 +85,6 @@
 2. **SQL Inside:** 	Powered by the proven OceanBase engine, delivering real-time writes and queries with full ACID compliance, and seamless MySQL ecosystem compatibility.
 
 
-
----
 
 ## 🎬 Quick Start
 
@@ -369,7 +367,6 @@ Edge devices—from mobile to vehicle and industrial terminals—operate with co
 
 </details>
 
----
 
 ## 🌟 Ecosystem & Integrations
 
@@ -433,7 +430,6 @@ Please refer to the [User Guide](https://www.oceanbase.ai/docs/seekdb-overview/)
 
 </div>
 
----
 
 
 ## 🤝 Community & Support
@@ -454,7 +450,6 @@ Please refer to the [User Guide](https://www.oceanbase.ai/docs/seekdb-overview/)
 
 </div>
 
----
 
 ## 🛠️ Development
 
@@ -480,7 +475,6 @@ In this example, the working director is $HOME/seekdb, please use a fresh direct
 
 We welcome contributions! See our [Contributing Guide](CONTRIBUTING.md) to get started.
 
----
 
 
 ## 📄 License
